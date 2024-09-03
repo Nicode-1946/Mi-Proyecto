@@ -4,7 +4,7 @@
 }
 
 h1{
-    color: aqua;
+    color: rgb(52, 20, 125);
 }
 
 h3{
@@ -20,7 +20,7 @@ body{background-color: rgb(0, 0, 0);}
 
 a[href="https://olympics.com/es/deportes/"] {
 
-    color: rgb(8, 212, 239);
+    color: rgb(41, 10, 81);
     font-style: italic;
     font-size: large;
 
@@ -32,7 +32,7 @@ div{
     border: 15px solid rgb(200, 83, 15) ;
     padding: 50px;
     margin: 20 px;
-    text-align: center;
+    text-align: left;
     width: 1000px;
     background-color: rgb(200, 83, 15);
     border: 30px;
